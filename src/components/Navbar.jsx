@@ -10,7 +10,7 @@ function Navbar() {
           <img src={Logo} alt="Logo Image" style={{ width: "50px" }} />
         </div>
         {/* Menu */}
-        <ul>
+        <ul className="flex">
           <li>Home</li>
           <li>About</li>
           <li>Skills</li>
@@ -31,7 +31,7 @@ function Navbar() {
         <li>Contact</li>
       </ul>
       {/* Social Icons */}
-      <div></div>
+      <div className="hidden"></div>
     </div>
   );
 }
