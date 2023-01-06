@@ -10,28 +10,29 @@ function Navbar() {
           <img src={Logo} alt="Logo Image" style={{ width: "50px" }} />
         </div>
         {/* Menu */}
-        <ul className="flex">
+
+        <ul className="hidden md:flex">
           <li>Home</li>
           <li>About</li>
           <li>Skills</li>
           <li>Work</li>
           <li>Contact</li>
         </ul>
+        {/* Hamburger */}
+        <div className="md:hidden">
+          <FaBars />
+        </div>
+        {/* Mobile Menu */}
+        <ul className=" hidden absolute top-0 left-0 w-full h h-screen bg-[#0a192f] flex flex-col justify-center items-center ">
+          <li className="py-6 text-4xl">Home</li>
+          <li className="py-6 text-4xl">About</li>
+          <li className="py-6 text-4xl">Skills</li>
+          <li className="py-6 text-4xl">Work</li>
+          <li className="py-6 text-4xl">Contact</li>
+        </ul>
+        {/* Social Icons */}
+        <div className="hidden"></div>
       </div>
-      {/* Hamburger */}
-      <div className="hidden">
-        <FaBars />
-      </div>
-      {/* Mobile Menu */}
-      <ul className="hidden">
-        <li>Home</li>
-        <li>About</li>
-        <li>Skills</li>
-        <li>Work</li>
-        <li>Contact</li>
-      </ul>
-      {/* Social Icons */}
-      <div className="hidden"></div>
     </div>
   );
 }
