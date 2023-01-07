@@ -54,6 +54,21 @@ function Navbar() {
                 Linkedin <FaLinkedin size={30} />
               </a>
             </li>
+            <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px]  hover:ml-[-10px] duration-300  bg-[#333333]">
+              <a className="flex justify-between items-center w-full text-gray-300">
+                GitHub <FaGithub size={30} />
+              </a>
+            </li>
+            <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px]  hover:ml-[-10px] duration-300  bg-[#6fb2b0]">
+              <a className="flex justify-between items-center w-full text-gray-300">
+                Email <HiOutlineMail size={30} />
+              </a>
+            </li>
+            <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px]  hover:ml-[-10px] duration-300  bg-[#565f65]">
+              <a className="flex justify-between items-center w-full text-gray-300">
+                CV <BsFillPersonLinesFill size={30} />
+              </a>
+            </li>
           </ul>
         </div>
       </div>
