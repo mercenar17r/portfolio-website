@@ -14,13 +14,16 @@ function Hero() {
           I'm a Junior Web Developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I'm Junior Web Developer.Currently specializing in building Web
+          I'm Junior Web Developer. Currently specializing in building Web
           Applications and constantly learning new technologies.
         </p>
         <div>
           |{" "}
-          <button>
-            View Work <HiArrowNarrowRight />
+          <button className="text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
+            View Work
+            <span>
+              <HiArrowNarrowRight className="ml-3 " />
+            </span>
           </button>
         </div>
       </div>
