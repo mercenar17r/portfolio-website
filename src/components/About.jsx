@@ -11,10 +11,18 @@ function About() {
             </p>
           </div>
           <div></div>
-          <div className="max-w-[1000] w-full grid grid-cols-2 gap-8">
-            <div>
-              <p></p>
-            </div>
+        </div>
+        <div className="max-w-[1000] w-full grid sm:grid-cols-2 gap-8 px-4">
+          <div className="sm:text-right  text-4xl font-bold">
+            <p>Hi.I'm Cosmin,nice to meet you.Please take a look around</p>
+          </div>
+          <div>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
+              magnam quibusdam neque ratione fugit voluptate repellendus
+              voluptatibus. Assumenda pariatur soluta omnis ab labore voluptatem
+              ea quaerat. Recusandae ut quod sint!
+            </p>
           </div>
         </div>
       </div>
