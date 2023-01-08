@@ -23,6 +23,26 @@ function Skills() {
             <img className="w-20 mx-auto" src={HTML} alt="HTML icon" />
             <p className="my-4">HTML</p>
           </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={ReactImg} alt="REACT icon" />
+            <p className="my-4">REACT</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-20 mx-auto"
+              src={JavaScript}
+              alt="JAVASCRIPT icon"
+            />
+            <p className="my-4">JAVASCRIPT</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={CSS} alt="CSS icon" />
+            <p className="my-4">CSS</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={GitHub} alt="GITHUB icon" />
+            <p className="my-4">GITHUB</p>
+          </div>
         </div>
       </div>
     </div>
