@@ -9,7 +9,7 @@ function Skills() {
   return (
     <div name="skills">
       {/* Container */}
-      <div>
+      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <p>Experience</p>
           <p>These are the technologies I've worked with</p>
