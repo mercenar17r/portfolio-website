@@ -10,8 +10,11 @@ function Work() {
           </p>
           <p className="py-6">//Check out my recent work</p>
         </div>
-        <div>
-          <div>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+          <div
+            className="shadow-lg shadow-[#040c16] group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div "
+          >
             <div>
               <div>
                 <span></span>
