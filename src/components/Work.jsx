@@ -25,7 +25,7 @@ function Work() {
             {/* Hover effect for images */}
             <div className="opacity-0 group-hover:opacity-100 ">
               <div className="text-2xl font bold text-white tracking-wider ">
-                <span>Javascript Application</span>
+                <span>CSS, JavaScript</span>
               </div>
               <a href="https://omnifood-negrut.netlify.app/" target="_blank">
                 <button
@@ -53,7 +53,7 @@ function Work() {
             {/* Hover effect for images */}
             <div className="opacity-0 group-hover:opacity-100 ">
               <div className="text-2xl font bold text-white tracking-wider ">
-                <span>Javascript Application</span>
+                <span>Javascript,Sass,Html</span>
               </div>
               <a href="https://forkify-ncosmin.netlify.app/" target="_blank">
                 <button
@@ -149,7 +149,7 @@ function Work() {
             {/* Hover effect for images */}
             <div className="opacity-0 group-hover:opacity-100 ">
               <div className="text-2xl font bold text-white tracking-wider ">
-                <span>Javascript Application</span>
+                <span>Javascript,CSS</span>
               </div>
               <a href="https://maapty-cosmin.netlify.app/" target="_blank">
                 <button
@@ -180,16 +180,9 @@ function Work() {
             {/* Hover effect for images */}
             <div className="opacity-0 group-hover:opacity-100 ">
               <div className="text-2xl font bold text-white tracking-wider ">
-                <span>Javascript Application</span>
+                <span>React,Tailwind,Html </span>
               </div>
-              <a href="/">
-                <button
-                  className="text-center rounded-lg px-4 py-3 m-2
-                       bg-white text-gray-700 font-bold text-lg"
-                >
-                  Demo
-                </button>
-              </a>
+
               <a
                 href="https://github.com/mercenar17r/portfolio-website"
                 target="_blank"
