@@ -118,7 +118,7 @@ function Work() {
             {/* Hover effect for images */}
             <div className="opacity-0 group-hover:opacity-100 ">
               <div className="text-2xl font bold text-white tracking-wider ">
-                <span>Javascript Application</span>
+                <span>Css Application</span>
               </div>
               <a href="https://chair-shop-cosmin.netlify.app/" target="_blank">
                 <button

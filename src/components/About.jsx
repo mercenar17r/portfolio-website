@@ -18,10 +18,10 @@ function About() {
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-              magnam quibusdam neque ratione fugit voluptate repellendus
-              voluptatibus. Assumenda pariatur soluta omnis ab labore voluptatem
-              ea quaerat. Recusandae ut quod sint!
+              I'm passionate about Web Development and I want to improve the
+              lives of those around me.Currently I'm learning and specializing
+              in developing responsive Web Applications,and I'm happy if I meet
+              new people in my web journey.
             </p>
           </div>
         </div>
