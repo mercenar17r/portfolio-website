@@ -27,7 +27,7 @@ function Work() {
               <div className="text-2xl font bold text-white tracking-wider ">
                 <span>Javascript Application</span>
               </div>
-              <a href="/">
+              <a href="https://omnifood-negrut.netlify.app/" target="_blank">
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -35,7 +35,7 @@ function Work() {
                   Demo
                 </button>
               </a>
-              <a href="/">
+              <a href="https://github.com/mercenar17r/omnifood" target="_blank">
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -55,7 +55,7 @@ function Work() {
               <div className="text-2xl font bold text-white tracking-wider ">
                 <span>Javascript Application</span>
               </div>
-              <a href="/">
+              <a href="https://forkify-ncosmin.netlify.app/" target="_blank">
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -63,7 +63,10 @@ function Work() {
                   Demo
                 </button>
               </a>
-              <a href="/">
+              <a
+                href="https://github.com/mercenar17r/recipe-app"
+                target="_blank"
+              >
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -83,7 +86,10 @@ function Work() {
               <div className="text-2xl font bold text-white tracking-wider ">
                 <span>Javascript Application</span>
               </div>
-              <a href="/">
+              <a
+                href="https://guess-my-number-cosmin.netlify.app/"
+                target="_blank"
+              >
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -91,7 +97,10 @@ function Work() {
                   Demo
                 </button>
               </a>
-              <a href="/">
+              <a
+                href="https://github.com/mercenar17r/Guess-My-Number-"
+                target="_blank"
+              >
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -111,7 +120,7 @@ function Work() {
               <div className="text-2xl font bold text-white tracking-wider ">
                 <span>Javascript Application</span>
               </div>
-              <a href="/">
+              <a href="https://chair-shop-cosmin.netlify.app/" target="_blank">
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -119,7 +128,10 @@ function Work() {
                   Demo
                 </button>
               </a>
-              <a href="/">
+              <a
+                href="https://github.com/mercenar17r/chair-shop"
+                target="_blank"
+              >
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -139,7 +151,7 @@ function Work() {
               <div className="text-2xl font bold text-white tracking-wider ">
                 <span>Javascript Application</span>
               </div>
-              <a href="/">
+              <a href="https://maapty-cosmin.netlify.app/" target="_blank">
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -147,7 +159,10 @@ function Work() {
                   Demo
                 </button>
               </a>
-              <a href="/">
+              <a
+                href="https://github.com/mercenar17r/Mapty-App"
+                target="_blank"
+              >
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -175,7 +190,10 @@ function Work() {
                   Demo
                 </button>
               </a>
-              <a href="/">
+              <a
+                href="https://github.com/mercenar17r/portfolio-website"
+                target="_blank"
+              >
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
