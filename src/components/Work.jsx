@@ -4,6 +4,7 @@ import Forkify from "../assets/projects/forkify.png";
 import Guess from "../assets/projects/guess-my-number.png";
 import Shop from "../assets/projects/chair-shop.png";
 import Mapty from "../assets/projects/maapty.png";
+import Portfolio from "../assets/projects/portfolio.png";
 
 function Work() {
   return (
@@ -18,6 +19,146 @@ function Work() {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           <div
             style={{ backgroundImage: `url(${Omnifood})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div "
+          >
+            {/* Hover effect for images */}
+            <div className="opacity-0 group-hover:opacity-100 ">
+              <div className="text-2xl font bold text-white tracking-wider ">
+                <span>Javascript Application</span>
+              </div>
+              <a href="/">
+                <button
+                  className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                >
+                  Demo
+                </button>
+              </a>
+              <a href="/">
+                <button
+                  className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                >
+                  Code
+                </button>
+              </a>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${Forkify})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div "
+          >
+            {/* Hover effect for images */}
+            <div className="opacity-0 group-hover:opacity-100 ">
+              <div className="text-2xl font bold text-white tracking-wider ">
+                <span>Javascript Application</span>
+              </div>
+              <a href="/">
+                <button
+                  className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                >
+                  Demo
+                </button>
+              </a>
+              <a href="/">
+                <button
+                  className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                >
+                  Code
+                </button>
+              </a>
+            </div>
+          </div>{" "}
+          <div
+            style={{ backgroundImage: `url(${Guess})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div "
+          >
+            {/* Hover effect for images */}
+            <div className="opacity-0 group-hover:opacity-100 ">
+              <div className="text-2xl font bold text-white tracking-wider ">
+                <span>Javascript Application</span>
+              </div>
+              <a href="/">
+                <button
+                  className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                >
+                  Demo
+                </button>
+              </a>
+              <a href="/">
+                <button
+                  className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                >
+                  Code
+                </button>
+              </a>
+            </div>
+          </div>{" "}
+          <div
+            style={{ backgroundImage: `url(${Shop})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div "
+          >
+            {/* Hover effect for images */}
+            <div className="opacity-0 group-hover:opacity-100 ">
+              <div className="text-2xl font bold text-white tracking-wider ">
+                <span>Javascript Application</span>
+              </div>
+              <a href="/">
+                <button
+                  className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                >
+                  Demo
+                </button>
+              </a>
+              <a href="/">
+                <button
+                  className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                >
+                  Code
+                </button>
+              </a>
+            </div>
+          </div>{" "}
+          <div
+            style={{ backgroundImage: `url(${Mapty})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div "
+          >
+            {/* Hover effect for images */}
+            <div className="opacity-0 group-hover:opacity-100 ">
+              <div className="text-2xl font bold text-white tracking-wider ">
+                <span>Javascript Application</span>
+              </div>
+              <a href="/">
+                <button
+                  className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                >
+                  Demo
+                </button>
+              </a>
+              <a href="/">
+                <button
+                  className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                >
+                  Code
+                </button>
+              </a>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${Portfolio})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md 
               flex justify-center text-center items-center mx-auto content-div "
           >
