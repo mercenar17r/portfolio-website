@@ -22,15 +22,15 @@ function Work() {
               flex justify-center text-center items-center mx-auto content-div "
           >
             {/* Hover effect for images */}
-            <div>
-              <div>
-                <span></span>
+            <div className="opacity-0 group-hover:opacity-100 ">
+              <div className="text-2xl font bold text-white tracking-wider ">
+                <span>Javascript Application</span>
               </div>
               <a href="/">
-                <button></button>
+                <button>Demo</button>
               </a>
               <a href="/">
-                <button></button>
+                <button>Code</button>
               </a>
             </div>
           </div>
