@@ -1,4 +1,9 @@
 import React from "react";
+import Omnifood from "../assets/projects/omnifood.png";
+import Forkify from "../assets/projects/forkify.png";
+import Guess from "../assets/projects/guess-my-number.png";
+import Shop from "../assets/projects/chair-shop.png";
+import Mapty from "../assets/projects/maapty.png";
 
 function Work() {
   return (
@@ -12,9 +17,11 @@ function Work() {
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           <div
+            style={{ backgroundImage: `url(${Omnifood})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md 
               flex justify-center text-center items-center mx-auto content-div "
           >
+            {/* Hover effect for images */}
             <div>
               <div>
                 <span></span>
